@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 296ddb7209fd72d468b333f9c8db8d9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - propertyModel: {instanceID: 0}
+  - propertySetModel: {instanceID: 0}
+  - nextTile: {instanceID: 0}
+  - housePrefab: {fileID: 8900957520361445447, guid: b14fc212c84c9e8468f0c5f6a7a522c2,
+      type: 3}
+  - hotelPrefab: {fileID: 528412197578269089, guid: b3015afd34a239e4a8b7858b4f30817c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
